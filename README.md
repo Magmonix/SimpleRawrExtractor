@@ -37,6 +37,7 @@ Note: Ensure you either have the MyCharacter.xml file in the root directory (def
 Note2: The PowerShell file may not run due to system security settings.
 Running the PowerShell command "set-executionpolicy bypass" before you run the program should allow it to run.
 After you run it you can run "Set-ExecutionPolicy restricted CurrentUser" to turn security settings back on.
-If you're running on Win7 you have to manually put in the directories. Reach out to me on Discord if you have issues.
+If you're running on Win7 you have to manually put in the directories.
 
 Note3: You cannot get glyph information from your target (AFAIK). There may be other reduced functionality that you can get from yourself but not your target as more features are added.
+
