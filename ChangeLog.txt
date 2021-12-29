@@ -1,0 +1,2 @@
+3/11/21: Added support for querying a target for information.
+11/28/21: Fixed a bug with querying a Paladin target.

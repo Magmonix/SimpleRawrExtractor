@@ -1,0 +1,19 @@
+## Interface: 30000
+## Title: Simple Rawr Extractor
+## Description: Exports an XML file to WTF folder. Save as an XML and import into Rawr.
+## SavedVariables: CharacterExtractXML
+CharacterInfo.lua
+SimpleRawrExtractor.lua
+RogueGlyphs.lua
+WarriorGlyphs.lua
+PaladinGlyphs.lua
+HunterGlyphs.lua
+PriestGlyphs.lua
+DeathKnightGlyphs.lua
+ShamanGlyphs.lua
+MageGlyphs.lua
+WarlockGlyphs.lua
+DruidGlyphs.lua
+TalentInfo.lua
+ItemsGemsEnchants.lua
+XMLBuilder.lua

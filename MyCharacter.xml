@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>testtest</Name>
+<Region>US</Region>
+<Race>NightElf</Race>
+<Class>Warrior</Class>
+<CurrentModel>DPSWarr</CurrentModel>
+<EnforceMetaGemRequirements>true</EnforceMetaGemRequirements>
+<CalculationOptions />
+<Head>41386.41398.39996.0.3817</Head>
+<Neck>40065.0.0.0.0</Neck>
+<Shoulders>40530.40037.0.0.3835</Shoulders>
+<Chest>39606.42142.42142.0.3252</Chest>
+<Waist>40278.39996.39996.0.0</Waist>
+<Legs>40529.42142.40022.0.3823</Legs>
+<Feet>44306.39996.39996.0.1597</Feet>
+<Wrist>40733.0.0.0.3845</Wrist>
+<Hands>39609.40037.0.0.1603</Hands>
+<Finger1>42642.40037.0.0.0</Finger1>
+<Finger2>40717.0.0.0.0</Finger2>
+<Trinket1>40256.0.0.0.0</Trinket1>
+<Trinket2>42987.0.0.0.0</Trinket2>
+<Back>40250.0.0.0.1099</Back>
+<MainHand>39417.0.0.0.3789</MainHand>
+<Ranged>44504.39996.0.0.0</Ranged>
+<CustomGemmingTemplates />
+<GemmingTemplateOverrides />
+<ItemFilterEnabledOverride />
+<Boss />
+<WarriorTalents>3022032023335100002012213231251305030004020000000000000000000000000000000000000000000.0000000000000000000000000000000000</WarriorTalents>
+<CustomItemInstances />
+<WaistBlacksmithingSocketEnabled>false</WaistBlacksmithingSocketEnabled>
+<HandsBlacksmithingSocketEnabled>false</HandsBlacksmithingSocketEnabled>
+<WristBlacksmithingSocketEnabled>false</WristBlacksmithingSocketEnabled>
+<PrimaryProfession>None</PrimaryProfession>
+<SecondaryProfession>None</SecondaryProfession>
+</Character>
