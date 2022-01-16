@@ -13,7 +13,7 @@ There are several parts to this package.
 	You can easily edit this file to change the number of iterations as well as point it to a different xml file.
 	It also pauses when it is done so you can read the results.
 
-5) XMLFormatter.ps1 takes the output from the WoW Saved Variables older for the addon and formats it in such a way that it is readable by rawr.
+5) XMLFormatter.ps1 takes the output from the WoW Saved Variables folder for the addon and formats it in such a way that it is readable by rawr.
 	Just run the powershell file, point it to \WTF\Account\{YOUR_ACCOUNT_NAME}\SavedVariables\SimpleRawrExtractor.lua, and then it will spit out a MyCharacter.XML file in the same folder that you ran the powershell script from. 
 	That file can be imported to either rawr and/or simc.
 
